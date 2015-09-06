@@ -16,6 +16,13 @@ At the moment, the app is able to retrieve metadata information from a Salesforc
 
 Pretty much everything else aside from retrieve organization metadata.
 
+# Requirements
+
+- Python 3.3+
+- Bottle (http://bottlepy.org/)
+- SQLite3 (bundled with Python 3.4)
+- Apache Ant (http://ant.apache.org/) added in the machine's PATH
+
 # License
 
 The MIT License (MIT)
